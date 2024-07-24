@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding-top:56px;
+    padding-left: 72px;
+    font-family: Roboto, Arial;
+    scrollbar-width: thin;
+    height: 500px;
+}
+p,img,input{
+    margin-top: 0;
+    margin-bottom: 0;
+   font-size: 14px;
+   font-family: Roboto, Arial;
+ }
+a{
+    text-decoration: none;
+}
+
+  a:link, a:visited,a:hover, a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+ 
+  
+ 
+  
